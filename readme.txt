@@ -1,6 +1,6 @@
 In Latin American countries the traffict jump it's big problem. One of the solutions that is commonly applied consists on restricting the cars that can circulate. This restriction is usually according to the last number of the "car licence plate". For example, cars which has 1 as the last number of the license plate, can not cirulate on Moday. 
 
-This repository contains two programs coded in python that according to a picture of the license plate determines whether the car can circulate or not:
+This repository contains two programs coded in python that according to a picture of the car determines whether the car can circulate or not:
 
 1) "license_plate_detection.py": identifies the license plate of the car in the picture and then tells us the ID number of the plate.
 
